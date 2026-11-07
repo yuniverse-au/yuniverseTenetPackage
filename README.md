@@ -1,6 +1,6 @@
 # Yuniverse's TENET Hub packages
 
-Community packages for [TENET Hub](https://github.com/yuniverse-au/tenet-hub), the app for the Metakey TENET 70's screen.
+Community packages for [TENET Hub](https://github.com/yuuusername/tenet-hub), the app for the Metakey TENET 70's screen.
 
 ## Add them to TENET Hub
 In TENET Hub open **Packages → Community sources…**, paste `https://github.com/yuniverse-au/yuniverseTenetPackage` and click **Add**.
