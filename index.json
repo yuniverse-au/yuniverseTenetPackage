@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "name": "Yuniverse",
+  "packages": [
+    {
+      "id": "yuniverse-dither",
+      "name": "Yuniverse dither",
+      "version": "1.0.0",
+      "type": "animation",
+      "description": "The yuniverse.au homepage background on your keyboard: flowing noise through an 8x8 Bayer dither, with the Yuniverse logo blended over it. A seamless 7.5 s loop (60 frames at 8 fps). Shows on the image screen, even with the PC off.",
+      "requires_firmware": 16,
+      "author": "Yuniverse",
+      "url": "catalog/yuniverse-dither-1.0.0.zip",
+      "sha256": "A53F4345C2E10851939A2C7B39F3B1DE74D46F47818FEF199D4EBC65FC29F9C3",
+      "size": 112321
+    }
+  ]
+}
